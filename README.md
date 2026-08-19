@@ -1,23 +1,25 @@
 # 👋 Hey, I'm Sumit Singh
 
-### 🚀 Flutter Developer | FastAPI Backend Developer | Firebase | REST APIs
+### 🚀 Flutter Developer | FastAPI Backend Developer | Firebase | PostgreSQL
 
-I’m a **Flutter Developer** focused on building modern, responsive, and scalable mobile applications. I work across both **frontend and backend**, using Flutter for mobile development and **FastAPI, PostgreSQL, Firebase, and REST APIs** for backend systems.
+I’m a **Flutter Developer** focused on building modern, responsive, and scalable mobile applications.
 
-I enjoy turning ideas into real-world applications with clean architecture, smooth UI/UX, secure authentication, and reliable backend services.
+I also work with **Python, FastAPI, PostgreSQL, Firebase, REST APIs, JWT authentication, and Docker** to build complete application backends and connected mobile experiences.
+
+I enjoy transforming ideas into real-world applications with clean UI, secure APIs, database integration, and scalable architecture.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 📱 Building cross-platform mobile applications with **Flutter & Dart**
-* ⚡ Developing backend APIs using **Python & FastAPI**
+* 📱 Building cross-platform applications with **Flutter & Dart**
+* ⚡ Developing REST APIs using **Python & FastAPI**
 * 🗄️ Working with **PostgreSQL & MySQL**
-* 🔐 Implementing authentication using **JWT**
-* 🔥 Working with **Firebase Authentication, Firestore & Storage**
-* 🐳 Learning and using **Docker** for application deployment
-* 🔌 Integrating **REST APIs** with mobile applications
-* 🏗️ Exploring **Clean Architecture & scalable backend systems**
+* 🔐 Implementing secure authentication using **JWT**
+* 🔥 Building applications with **Firebase**
+* 🐳 Working with **Docker** for containerized applications
+* 🔌 Integrating mobile applications with **REST APIs**
+* 🏗️ Learning **Clean Architecture & System Design**
 * 🤖 Exploring **AI integration in mobile applications**
 
 ---
@@ -48,7 +50,7 @@ I enjoy turning ideas into real-world applications with clean architecture, smoo
 ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 🐳 DevOps & Tools
+### 🐳 Tools & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -63,35 +65,68 @@ I enjoy turning ideas into real-world applications with clean architecture, smoo
 
 ---
 
-## 💼 What I'm Working On
+## 🚀 Featured Projects
 
-* 📱 **Flutter Mobile Applications**
-* ⚡ **FastAPI Backend & REST APIs**
-* 🗄️ **PostgreSQL Database Systems**
-* 🔐 **JWT Authentication & Authorization**
-* 🔥 **Firebase-powered Applications**
-* 🐳 **Dockerized Backend Applications**
-* 🤖 **AI-powered Mobile Applications**
+### 📱 Flutter Applications
+
+Building modern mobile applications with:
+
+* Flutter & Dart
+* GetX State Management
+* Firebase
+* REST API Integration
+* Authentication
+* Responsive UI/UX
+
+### ⚡ FastAPI Backend Projects
+
+Developing backend systems using:
+
+* Python
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* REST APIs
+* JWT Authentication
+* Docker
+
+### 🤖 AI-Powered Applications
+
+Exploring ways to integrate **AI capabilities into mobile applications and backend systems**.
+
+---
+
+## 🔥 What I'm Currently Working On
+
+* 📱 Flutter Mobile Applications
+* ⚡ FastAPI REST APIs
+* 🗄️ PostgreSQL Database Systems
+* 🔐 JWT Authentication
+* 🐳 Docker & Backend Deployment
+* 🔥 Firebase Applications
+* 🤖 AI Integration
 
 ---
 
 ## 🌱 Currently Learning
 
 * 🏗️ Clean Architecture
-* ⚡ Advanced FastAPI & Backend Development
-* 🐳 Docker & Deployment
+* ⚡ Advanced FastAPI
 * 🗄️ Advanced PostgreSQL
 * 🔐 Authentication & Authorization
+* 🐳 Docker & Deployment
+* 📐 System Design
 * 🤖 AI Integration
-* 📐 System Design & Scalable Architecture
 
 ---
 
-## 🤝 Looking to Collaborate On
+## 🤝 Open to Collaboration
 
-* Flutter Applications
-* Full-Stack Mobile Projects
-* FastAPI & Backend Projects
+I'm interested in collaborating on:
+
+* Flutter Projects
+* Full-Stack Mobile Applications
+* FastAPI Backend Projects
 * Startup Ideas
 * Open Source Projects
 * AI-powered Applications
@@ -100,58 +135,48 @@ I enjoy turning ideas into real-world applications with clean architecture, smoo
 
 ## 💬 Ask Me About
 
-**Flutter • Dart • Firebase • FastAPI • Python • PostgreSQL • REST APIs • JWT • Docker • Mobile App Development • State Management**
+**Flutter • Dart • FastAPI • Python • Firebase • PostgreSQL • MySQL • REST APIs • JWT • Docker • GetX • Mobile App Development**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub
+
+I regularly use GitHub to build, maintain, and share my projects.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-singh2398&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-singh2398&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumit-singh2398&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📈 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sumit-singh2398&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
   <a href="https://github.com/Sumit-singh2398">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:singhsumit98645@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🧩 Development Workflow
+
+```text
+Idea
+  ↓
+UI/UX Design
+  ↓
+Flutter Application
+  ↓
+REST API / Firebase
+  ↓
+FastAPI Backend
+  ↓
+PostgreSQL Database
+  ↓
+JWT Authentication
+  ↓
+Docker
+  ↓
+Deployment 🚀
+```
 
 ---
 
 ## ⚡ Fun Fact
 
-I love turning ideas into **fully functional mobile applications** — from UI design to backend APIs and database integration. 🚀
+I love turning ideas into **fully functional applications** — from designing the UI to building APIs, connecting databases, implementing authentication, and deploying the backend.
 
 ### ⭐ Code. Create. Innovate.
