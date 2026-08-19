@@ -1,89 +1,157 @@
 # 👋 Hey, I'm Sumit Singh
 
-🚀 Flutter Developer | Firebase Backend | API Integration
+### 🚀 Flutter Developer | FastAPI Backend Developer | Firebase | REST APIs
 
-💻 I build modern, responsive, and scalable mobile applications using Flutter & Firebase. Passionate about creating smooth UI/UX and powerful backend systems.
+I’m a **Flutter Developer** focused on building modern, responsive, and scalable mobile applications. I work across both **frontend and backend**, using Flutter for mobile development and **FastAPI, PostgreSQL, Firebase, and REST APIs** for backend systems.
 
-🌱 I’m currently learning:
+I enjoy turning ideas into real-world applications with clean architecture, smooth UI/UX, secure authentication, and reliable backend services.
 
-* Advanced Flutter Animations
-* Node.js & Express
-* Clean Architecture
-* AI Integration in Apps
+---
 
-👨‍💻 I’m currently working on:
+## 🚀 About Me
 
-* Flutter Mobile Applications
-* Firebase Backend Systems
-* Real-time Chat & API-based Apps
+* 📱 Building cross-platform mobile applications with **Flutter & Dart**
+* ⚡ Developing backend APIs using **Python & FastAPI**
+* 🗄️ Working with **PostgreSQL & MySQL**
+* 🔐 Implementing authentication using **JWT**
+* 🔥 Working with **Firebase Authentication, Firestore & Storage**
+* 🐳 Learning and using **Docker** for application deployment
+* 🔌 Integrating **REST APIs** with mobile applications
+* 🏗️ Exploring **Clean Architecture & scalable backend systems**
+* 🤖 Exploring **AI integration in mobile applications**
 
-🤝 I’m looking to collaborate on:
+---
 
-* Flutter Projects
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🔥 Firebase
+
+![Firebase Authentication](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🐳 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+---
+
+## 💼 What I'm Working On
+
+* 📱 **Flutter Mobile Applications**
+* ⚡ **FastAPI Backend & REST APIs**
+* 🗄️ **PostgreSQL Database Systems**
+* 🔐 **JWT Authentication & Authorization**
+* 🔥 **Firebase-powered Applications**
+* 🐳 **Dockerized Backend Applications**
+* 🤖 **AI-powered Mobile Applications**
+
+---
+
+## 🌱 Currently Learning
+
+* 🏗️ Clean Architecture
+* ⚡ Advanced FastAPI & Backend Development
+* 🐳 Docker & Deployment
+* 🗄️ Advanced PostgreSQL
+* 🔐 Authentication & Authorization
+* 🤖 AI Integration
+* 📐 System Design & Scalable Architecture
+
+---
+
+## 🤝 Looking to Collaborate On
+
+* Flutter Applications
+* Full-Stack Mobile Projects
+* FastAPI & Backend Projects
 * Startup Ideas
-* Open Source Contributions
-* Mobile App Development
+* Open Source Projects
+* AI-powered Applications
 
-🛠️ I’m looking for help with:
+---
 
-* Advanced Backend Development
-* System Design
-* Scalable App Architecture
+## 💬 Ask Me About
 
-💬 Ask me about:
+**Flutter • Dart • Firebase • FastAPI • Python • PostgreSQL • REST APIs • JWT • Docker • Mobile App Development • State Management**
 
-* Flutter Development
-* Firebase
-* REST APIs
-* App UI Design
-* State Management
+---
 
-📫 How to reach me:
-
-* GitHub: @https://github.com/Sumit-singh2398
-* Email: singhsumit98645@gmail.com
-
-😄 Pronouns: He
-
-⚡ Fun fact:
-I love turning ideas into fully functional mobile apps 🚀
-
-⭐ “Code. Create. Innovate.”
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sumit-singh2398&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sumit Singh) [![singhsumit98645@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhsumit23578@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-singh2398&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-singh2398&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🏆 GitHub Trophies
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sumit-singh2398&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumit-singh2398&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sumit-singh2398&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📈 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sumit-singh2398&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Sumit-singh2398">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:singhsumit98645@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into **fully functional mobile applications** — from UI design to backend APIs and database integration. 🚀
+
+### ⭐ Code. Create. Innovate.
