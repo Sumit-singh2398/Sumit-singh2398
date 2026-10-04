@@ -1,174 +1,213 @@
-# 👋 Hey, I'm Sumit Singh
+<div align="center">
 
-### 🚀 Flutter Developer | FastAPI Backend Developer | Firebase | PostgreSQL
+# 👋 Hi, I'm Sumit Singh
 
-I’m a **Flutter Developer** focused on building modern, responsive, and scalable mobile applications.
+### Flutter Developer • Mobile App Developer • Full Stack Developer
 
-I also work with **Python, FastAPI, PostgreSQL, Firebase, REST APIs, JWT authentication, and Docker** to build complete application backends and connected mobile experiences.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=3B5BDB&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Building+Modern+Android+Applications;Flutter+%7C+Dart+%7C+Firebase;FastAPI+%7C+PostgreSQL+%7C+REST+APIs;Creating+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG"/>
 
-I enjoy transforming ideas into real-world applications with clean UI, secure APIs, database integration, and scalable architecture.
-
----
-
-## 👨‍💻 About Me
-
-- 📱 Building cross-platform applications with **Flutter & Dart**
-- ⚡ Developing REST APIs using **Python & FastAPI**
-- 🗄️ Working with **PostgreSQL & MySQL**
-- 🔐 Implementing secure authentication using **JWT**
-- 🔥 Building applications with **Firebase**
-- 🐳 Working with **Docker** for containerized applications
-- 🔌 Integrating mobile applications with **REST APIs**
-- 🏗️ Learning **Clean Architecture & System Design**
-- 🤖 Exploring **AI integration in mobile applications**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Programming Languages
+I'm a **Flutter Developer and BCA student** passionate about building modern, practical, and user-friendly mobile applications.
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+I work mainly with **Flutter & Dart** for mobile development and also build backend services using **FastAPI, REST APIs, JWT authentication, Firebase, and PostgreSQL**.
 
-### 🎨 Frontend Development
+I enjoy turning ideas into complete applications with clean UI, reliable backend systems, authentication, database integration, and real-world functionality.
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-
-### ⚙️ Backend & APIs
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)](#)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-### 🗄️ Databases
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
-
-### 🛠️ Tools & DevOps
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+* 📱 Building Android applications with **Flutter**
+* ⚙️ Developing REST APIs with **FastAPI**
+* 🔐 Working with **JWT & Firebase Authentication**
+* 🗄️ Using **PostgreSQL & Firebase databases**
+* 🔗 Integrating APIs with mobile applications
+* 🐳 Exploring **Docker & backend deployment**
+* 💻 Learning and improving every day
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Stack
 
-### 📱 Flutter Applications
+### 📱 Mobile Development
 
-Building modern mobile applications with:
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
 
-- Flutter & Dart
-- GetX State Management
-- Firebase
-- REST API Integration
-- Authentication
-- Responsive UI/UX
+### 💻 Languages
 
-### ⚡ FastAPI Backend Projects
+<p>
+<img src="https://skillicons.dev/icons?i=dart,python,c" />
+</p>
 
-Developing backend systems using:
+### 🔥 Backend & Database
 
-- Python
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- REST APIs
-- JWT Authentication
-- Docker
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,firebase" />
+</p>
 
-### 🤖 AI-Powered Applications
+### 🔗 API & Authentication
 
-Exploring ways to integrate **AI capabilities into mobile applications and backend systems**.
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+**REST APIs • JWT Authentication • Firebase Auth • Firestore • Realtime Database**
+
+### 🛠️ Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+</p>
+
+### 📦 Flutter Technologies
+
+* Flutter
+* Dart
+* GetX
+* REST API Integration
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Realtime Database
+* JWT Authentication
+* State Management
+* Responsive UI
+* API Integration
 
 ---
 
-## 🔥 What I'm Currently Working On
+## 📱 Featured Projects
 
-- 📱 Flutter Mobile Applications
-- ⚡ FastAPI REST APIs
-- 🗄️ PostgreSQL Database Systems
-- 🔐 JWT Authentication
-- 🐳 Docker & Backend Deployment
-- 🔥 Firebase Applications
-- 🤖 AI Integration
+### 🏢 Orgaflow — Asset Management Platform
+
+A complete organization asset management application built with Flutter.
+
+**Features:**
+
+* 👤 Employee authentication
+* 🔐 JWT-based authentication
+* 📦 Asset management
+* 🔎 Browse available assets
+* 📝 Asset request system
+* 👨‍💼 Employee management
+* 📊 Management dashboards
+* 🗄️ PostgreSQL database
+* ⚙️ FastAPI REST backend
+* 🐳 Docker-based backend environment
+* 🔗 Flutter + REST API integration
+
+**Tech Stack:**
+`Flutter` `Dart` `FastAPI` `PostgreSQL` `JWT` `Docker` `REST API` `GetX`
+
+---
+
+### 🏔️ Pahad Alert
+
+A landslide early-warning and risk monitoring mobile application designed for people living in or travelling through hilly regions.
+
+**Features:**
+
+* 🌧️ Rainfall monitoring
+* 🌱 Soil condition analysis
+* 🛰️ Satellite-based information
+* 🗺️ Risk monitoring
+* 🟢🟡🔴 Risk-level indicators
+* 📱 Mobile alerts
+* 🔔 Push notifications
+* 📡 Offline-friendly functionality
+* 🚨 Landslide early-warning concept
+
+**Tech Stack:**
+`Flutter` `Dart` `APIs` `Firebase` `Geospatial Data`
+
+---
+
+### 🎬 TeleShow
+
+A Flutter-based entertainment application for discovering movies and TV shows.
+
+**Features:**
+
+* 🎬 Movie discovery
+* 📺 TV show discovery
+* 🔎 Search functionality
+* ⭐ Ratings and information
+* 🖼️ Movie posters and details
+* 🔗 API-based data integration
+
+**Tech Stack:**
+`Flutter` `Dart` `REST API` `IMDb Data`
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Building real-world Flutter applications
+* 💻 Participated in hackathons and technology competitions
+* 🏔️ Worked on **Pahad Alert** landslide early-warning project
+* 🏢 Developing **Orgaflow** asset management platform
+* 🤖 Exploring AI/ML alongside mobile development
+* 📚 Continuously learning new technologies
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🏗️ Clean Architecture
-- ⚡ Advanced FastAPI
-- 🗄️ Advanced PostgreSQL
-- 🔐 Authentication & Authorization
-- 🐳 Docker & Deployment
-- 📐 System Design
-- 🤖 AI Integration
+* 📱 Advanced Flutter Development
+* ⚙️ Backend Architecture
+* 🐍 Python & FastAPI
+* 🗄️ PostgreSQL
+* 🔐 Authentication & Security
+* 🐳 Docker
+* 🤖 AI & Machine Learning
+* ☁️ Backend Deployment & Cloud Technologies
 
 ---
 
-## 🤝 Open to Collaboration
+## 📊 GitHub Stats
 
-I'm interested in collaborating on:
+<div align="center">
 
-- Flutter Projects
-- Full-Stack Mobile Applications
-- FastAPI Backend Projects
-- Startup Ideas
-- Open Source Projects
-- AI-powered Applications
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-singh2398&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-singh2398&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
-## 💬 Ask Me About
-
-**Flutter • Dart • FastAPI • Python • Node.js • Firebase • PostgreSQL • MySQL • REST APIs • JWT • Docker • GetX • Mobile App Development**
+</div>
 
 ---
 
-## 📈 GitHub
+## 🔥 GitHub Streak
 
-I regularly use GitHub to build, maintain, and share my projects.
+<div align="center">
 
-[![Visit My GitHub](https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit-singh2398)
+<img src="https://streak-stats.demolab.com?user=Sumit-singh2398&theme=transparent&hide_border=true" />
 
----
-
-## 🧩 Development Workflow
-
-```text
-Idea
-  ↓
-UI/UX Design
-  ↓
-Flutter Application
-  ↓
-REST API / Firebase
-  ↓
-FastAPI / Node.js Backend
-  ↓
-PostgreSQL / MySQL / Firestore Database
-  ↓
-JWT Authentication
-  ↓
-Docker
-  ↓
-Deployment 🚀
-```
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🌍 Let's Connect
 
-I love turning ideas into **fully functional applications** — from designing the UI to building APIs, connecting databases, implementing authentication, and deploying the backend.
+<p align="left">
 
-### ⭐ Code. Create. Innovate.
+<a href="https://github.com/Sumit-singh2398" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sumit-singh-975b7b412/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Building mobile experiences with Flutter
+
+*"Learn. Build. Improve. Repeat."*
+
+</div>
