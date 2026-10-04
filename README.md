@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- Header Banner -->
-<img src="https://lh3.googleusercontent.com/gg/AElq4DYT44xAtIlyK8gM1Z3R7cRzH5E27r5I1M1n1g9k3P3c1x8v7m8b" alt="Sumit Singh Banner" width="100%"/>
-
-<br/><br/>
+  <img src="./flutter_logo.jpeg" alt="Sumit Singh Banner" width="100%"/>
+</div>
 
 <h1>👋 HI, I'M SUMIT SINGH</h1>
 
