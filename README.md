@@ -19,83 +19,78 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-I'm **Sumit Singh**, a **Flutter Developer and BCA student** focused on building modern, scalable, and user-friendly mobile applications.
+I'm **Sumit Singh**, a **Flutter Developer and BCA student** passionate about building modern, practical, and user-friendly mobile applications.
 
-My primary area of development is **Flutter & Dart**, where I build Android applications with clean interfaces, reusable components, API integrations, authentication systems, and real-world functionality.
+My primary focus is **Flutter & Dart**, where I develop Android applications with clean UI, smooth navigation, reusable components, API integration, authentication, and real-world functionality.
 
-Along with mobile development, I'm also learning and working with **backend technologies**, allowing me to build applications from frontend to backend rather than focusing only on the UI.
+Along with mobile development, I also work with backend technologies such as **FastAPI, REST APIs, JWT, PostgreSQL, and Firebase**. This allows me to understand and develop applications across both the frontend and backend.
 
-I have experience working with **FastAPI, REST APIs, JWT authentication, Firebase, PostgreSQL, Docker, and Git/GitHub**. I enjoy connecting mobile applications with backend services and designing complete application workflows.
+I enjoy taking an idea from **concept → UI → backend → database → API integration → working application**.
 
-I'm particularly interested in building applications that solve **real-world problems** instead of just creating demo projects.
+I'm particularly interested in building projects that solve real-world problems rather than creating applications only for demonstration.
 
-### 💡 What I Do
+### 💡 WHAT I DO
 
 * 📱 Build Android applications using **Flutter & Dart**
-* 🎨 Create modern and responsive mobile UI
-* 🔗 Integrate **REST APIs** with Flutter applications
-* ⚙️ Build backend APIs using **FastAPI**
+* 🎨 Design modern and responsive mobile interfaces
+* 🔗 Integrate **REST APIs** with Flutter
+* ⚙️ Develop backend services using **FastAPI**
 * 🔐 Implement authentication using **JWT & Firebase**
 * 🗄️ Work with **PostgreSQL, Firestore & Realtime Database**
-* 📦 Build asset management and request-based systems
-* 🔄 Manage application state using **GetX**
+* 🔄 Use **GetX** for state management and application flow
 * 🐳 Work with Docker for backend environments
-* 🚀 Explore deployment and cloud technologies
-* 🤖 Currently expanding my knowledge in **AI/ML**
+* 🧪 Test APIs using Postman
+* 🌱 Continuously explore new technologies and development practices
 
-> My goal is to become a strong **Full Stack Mobile Developer** who can design, build, connect, and deploy complete applications.
+> 🎯 My goal is to become a strong **Full Stack Mobile Developer** capable of building complete, scalable, and production-ready applications.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ TECH STACK
 
-### 📱 Mobile Development
+## 📱 MOBILE DEVELOPMENT
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
-**Flutter • Dart • GetX • Responsive UI • Android Development • State Management**
+**Flutter • Dart • Android Studio • GetX • Responsive UI • State Management**
 
 ---
 
-### 💻 Programming Languages
+## 💻 PROGRAMMING LANGUAGES
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,python,c" />
+<img src="https://skillicons.dev/icons?i=dart,python,cpp" />
 </p>
 
-**Dart • Python • C**
+**Dart • Python • C++**
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ BACKEND DEVELOPMENT
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql" />
 </p>
 
-**FastAPI • REST APIs • JWT • PostgreSQL • API Integration**
+**FastAPI • REST APIs • JWT • PostgreSQL • Backend Architecture**
 
 ---
 
-### 🔥 Firebase
+## 🔥 FIREBASE
 
 <p>
 <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
-* Firebase Authentication
-* Cloud Firestore
-* Firebase Realtime Database
-* Push Notifications
-* Firebase-based application services
+**Firebase Authentication • Cloud Firestore • Realtime Database • Push Notifications**
 
 ---
 
-### 🧰 Tools & Technologies
+## 🔧 TOOLS & DEVELOPMENT
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
@@ -105,15 +100,15 @@ I'm particularly interested in building applications that solve **real-world pro
 
 ---
 
-## 🚀 What I'm Currently Building
+# 🚀 FEATURED PROJECTS
 
-### 🏢 Orgaflow
+## 🏢 ORGAFLOW — ASSET MANAGEMENT PLATFORM
 
 **Orgaflow** is a mobile-based organization asset management platform designed to manage company assets, employees, requests, and asset allocation through a centralized system.
 
-The application is being developed with a **Flutter frontend and FastAPI backend**, with PostgreSQL used for persistent data storage.
+The application is being developed using a **Flutter frontend and FastAPI backend**, with PostgreSQL as the primary database.
 
-### 🔑 Main Features
+### 🔑 KEY FEATURES
 
 * 👤 Employee authentication
 * 🔐 JWT-based authentication
@@ -121,27 +116,28 @@ The application is being developed with a **Flutter frontend and FastAPI backend
 * 📦 Asset management
 * 🔎 Browse available assets
 * 📝 Asset request system
-* 📋 Employee request tracking
+* 📋 Request tracking
 * 👨‍💼 Asset management workflows
 * 📊 Management dashboards
 * 🗄️ PostgreSQL database
 * ⚙️ FastAPI REST API
-* 🐳 Docker backend environment
+* 🐳 Docker-based backend environment
 * 🔗 Flutter ↔ REST API integration
+* 🔄 GetX state management
 
-**Tech Stack:**
+### 🧰 TECHNOLOGY
 
 `Flutter` `Dart` `GetX` `FastAPI` `PostgreSQL` `JWT` `Docker` `REST API`
 
 ---
 
-## 🏔️ Pahad Alert
+# 🏔️ PAHAD ALERT
 
 **Pahad Alert** is a landslide early-warning and risk monitoring mobile application designed for people living in or travelling through hilly and landslide-prone regions.
 
-The application focuses on providing risk information and alerts using environmental and geographical data.
+The project focuses on monitoring environmental conditions and presenting understandable risk information to users.
 
-### 🌧️ Main Features
+### 🌧️ KEY FEATURES
 
 * 🌧️ Rainfall monitoring
 * 🌱 Soil condition analysis
@@ -151,21 +147,21 @@ The application focuses on providing risk information and alerts using environme
 * 🟡 Medium-risk indication
 * 🔴 High-risk indication
 * 🚨 Landslide early-warning concept
-* 📱 Mobile notifications
+* 📱 Mobile alerts
+* 🔔 Push notifications
 * 📡 Offline-friendly functionality
-* 🔔 Alert-based system
 
-**Tech Stack:**
+### 🧰 TECHNOLOGY
 
 `Flutter` `Dart` `Firebase` `APIs` `Geospatial Data`
 
 ---
 
-## 🎬 TeleShow
+# 🎬 TELESHOW
 
-**TeleShow** is a Flutter-based entertainment application designed to help users discover movies and TV shows using external entertainment APIs.
+**TeleShow** is a Flutter-based entertainment application designed for discovering movies and TV shows using external entertainment APIs.
 
-### 🎥 Features
+### 🎥 KEY FEATURES
 
 * 🎬 Movie discovery
 * 📺 TV show discovery
@@ -175,57 +171,70 @@ The application focuses on providing risk information and alerts using environme
 * 📄 Detailed movie/show information
 * 🔗 API-based content integration
 
-**Tech Stack:**
+### 🧰 TECHNOLOGY
 
 `Flutter` `Dart` `REST API` `Movie APIs`
 
 ---
 
-## 🏆 Hackathons & Achievements
+# 🏆 ACHIEVEMENTS & EXPERIENCE
 
-* 🥇 Participated in multiple hackathons and technology competitions
-* 💻 Built real-world applications using Flutter
-* 🏔️ Worked on a landslide early-warning solution with **Pahad Alert**
-* 🏢 Developing a complete organization asset management platform with **Orgaflow**
-* 🤖 Exploring AI-powered applications and machine learning
-* 🚀 Continuously building and improving real-world projects
+* 🚀 Built multiple real-world mobile application projects
+* 📱 Developing applications using Flutter and Dart
+* 🏢 Building **Orgaflow**, a complete asset management platform
+* 🏔️ Worked on **Pahad Alert**, a landslide early-warning project
+* 💻 Participated in hackathons and technology competitions
+* 🤖 Exploring AI/ML and its integration with software applications
+* 🔧 Working across both mobile frontend and backend development
+* 📚 Continuously improving software development skills
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 CURRENTLY LEARNING
 
-I'm continuously improving my development skills and exploring new technologies.
+I'm continuously improving my development skills and exploring technologies that can help me build better applications.
+
+### 📚 CURRENT FOCUS
+
+* 📱 Advanced Flutter Development
+* 🏗️ Application Architecture
+* ⚙️ FastAPI & Backend Development
+* 🗄️ PostgreSQL & Database Design
+* 🔐 Authentication & API Security
+* 🐳 Docker
+* ☁️ Deployment & Cloud Technologies
+* 🤖 Artificial Intelligence & Machine Learning
+* 🔗 API Design & Integration
+
+---
+
+# 🧠 DEVELOPMENT APPROACH
 
 ```text
-Flutter & Dart
-      ↓
-Advanced Mobile Development
-      ↓
-REST APIs & FastAPI
-      ↓
-PostgreSQL & Database Design
-      ↓
-Authentication & Security
-      ↓
-Docker & Deployment
-      ↓
-AI / Machine Learning
+IDEA
+  ↓
+UI / UX
+  ↓
+FLUTTER DEVELOPMENT
+  ↓
+API INTEGRATION
+  ↓
+BACKEND
+  ↓
+DATABASE
+  ↓
+TESTING
+  ↓
+DEPLOYMENT
+  ↓
+IMPROVEMENT
 ```
 
-### 🔍 Currently Exploring
-
-* Advanced Flutter architecture
-* Clean code & reusable components
-* Backend architecture
-* API security
-* Database design
-* Docker & deployment
-* Cloud technologies
-* AI/ML integration with applications
+I believe the best way to learn software development is by **building real projects, solving problems, debugging issues, and continuously improving the implementation**.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <div align="center">
 
@@ -237,7 +246,7 @@ AI / Machine Learning
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GITHUB STREAK
 
 <div align="center">
 
@@ -247,31 +256,20 @@ AI / Machine Learning
 
 ---
 
-## 💻 Developer Philosophy
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-I believe the best way to learn development is by **building real projects, solving real problems, and continuously improving the implementation**.
-
-Every project gives me an opportunity to learn something new — whether it's mobile UI, backend architecture, database design, API integration, authentication, or deployment.
-
----
-
-## 🎯 My Goals
+# 🎯 MY GOALS
 
 * 🚀 Become a professional **Flutter Developer**
 * 📱 Build production-ready mobile applications
 * ⚙️ Become stronger in backend development
-* ☁️ Learn cloud deployment and scalable architecture
+* 🏗️ Learn scalable application architecture
+* ☁️ Improve cloud and deployment knowledge
 * 🤖 Combine mobile development with AI/ML
 * 💻 Contribute to open-source projects
 * 🌍 Build technology that solves real-world problems
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 LET'S CONNECT
 
 <div align="center">
 
@@ -289,10 +287,10 @@ Every project gives me an opportunity to learn something new — whether it's mo
 
 <div align="center">
 
-### 📱 Building Mobile Experiences with Flutter
+### 📱 BUILDING MOBILE EXPERIENCES WITH FLUTTER
 
-**"Learn. Build. Improve. Repeat."**
+**"LEARN. BUILD. IMPROVE. REPEAT."**
 
-⭐ If you find my projects interesting, feel free to explore my repositories.
+⭐ Feel free to explore my repositories and projects.
 
 </div>
