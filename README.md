@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./flutter_logo.jpeg" alt="Sumit Singh Banner" width="100%"/>
+  <img src="./flutter_logo.jpeg" alt="Sumit Singh Banner" width="60%"/>
 </div>
 
 <h1>👋 HI, I'M SUMIT SINGH</h1>
