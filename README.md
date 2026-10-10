@@ -422,5 +422,5 @@ I am especially interested in opportunities where I can:
 </p>
 
 <p align="center">
-  <strong>💻 Code. Build. Break. Fix. Repeat. 🤓</strong>
+  <strong>💻 Code. Build. Break. Fix. Repeat. </strong>
 </p>
